@@ -1,3 +1,5 @@
+ManillaGorilla and Bdizzle bot.
+
 CytubeBot
 =========
 
